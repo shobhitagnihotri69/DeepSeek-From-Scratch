@@ -1,6 +1,6 @@
 # Build DeepSeek from Scratch
 
-Welcome to the official code repository for the book, **"Build DeepSeek from Scratch"** by Dr. Raj Dandekar, Dr. Rajat Dandekar, Dr. Sreedath Panat, and Naman Dwivedi of [Vizuara AI Labs](https://home.vizuara.ai/).
+A hands-on guide to understanding and implementing the key architectural innovations behind DeepSeek — **Multi-Head Latent Attention (MLA)**, **Mixture-of-Experts (MoE)**, **Multi-Token Prediction**, and **RL-based training (GRPO)**.
 
 This book and repository provide a hands-on guide to understanding and implementing the key architectural innovations behind DeepSeek.
 
